@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weimanga-chapter.herokuapp.com/sitemap.xml
+Sitemap: https://weimanga-chapter.herokuapp.com/host-https-weimanga.com/sitemap_index.xml
